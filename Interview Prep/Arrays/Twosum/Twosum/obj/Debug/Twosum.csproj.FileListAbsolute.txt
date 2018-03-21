@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\bin\Debug\Twosum.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\bin\Debug\Twosum.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\bin\Debug\Twosum.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\obj\Debug\Twosum.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\obj\Debug\Twosum.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\Twosum\Twosum\obj\Debug\Twosum.pdb

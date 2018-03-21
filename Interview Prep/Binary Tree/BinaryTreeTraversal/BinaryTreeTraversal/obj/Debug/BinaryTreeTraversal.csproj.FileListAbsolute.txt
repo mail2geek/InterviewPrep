@@ -1,0 +1,9 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\BinaryTreeTraversal.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\BinaryTreeTraversal.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\BinaryTreeTraversal.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\BinaryTreeTraversal.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\BinaryTreeTraversal.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\BinaryTreeTraversal.pdb
+C:\Users\ramgan\Documents\Visual Studio 2015\Projects\Binary Tree\BinaryTreeTraversal\BinaryTreeTraversal\bin\Debug\BinaryTreeTraversal.exe.config
+C:\Users\ramgan\Documents\Visual Studio 2015\Projects\Binary Tree\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\BinaryTreeTraversal.exe
+C:\Users\ramgan\Documents\Visual Studio 2015\Projects\Binary Tree\BinaryTreeTraversal\BinaryTreeTraversal\obj\Debug\BinaryTreeTraversal.pdb

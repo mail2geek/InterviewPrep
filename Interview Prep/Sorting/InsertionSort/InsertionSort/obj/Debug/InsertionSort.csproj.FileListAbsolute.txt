@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb

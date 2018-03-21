@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\bin\Debug\SmallestCommonNumber.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\bin\Debug\SmallestCommonNumber.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\bin\Debug\SmallestCommonNumber.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\obj\Debug\SmallestCommonNumber.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\obj\Debug\SmallestCommonNumber.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\SmallestCommonNumber\SmallestCommonNumber\obj\Debug\SmallestCommonNumber.pdb

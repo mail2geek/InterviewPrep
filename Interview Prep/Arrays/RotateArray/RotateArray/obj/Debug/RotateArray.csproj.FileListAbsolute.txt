@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\bin\Debug\RotateArray.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\bin\Debug\RotateArray.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\bin\Debug\RotateArray.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\obj\Debug\RotateArray.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\obj\Debug\RotateArray.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\RotateArray\RotateArray\obj\Debug\RotateArray.pdb

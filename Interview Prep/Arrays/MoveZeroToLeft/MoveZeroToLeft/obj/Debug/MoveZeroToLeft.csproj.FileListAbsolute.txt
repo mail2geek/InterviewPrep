@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\bin\Debug\MoveZeroToLeft.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\bin\Debug\MoveZeroToLeft.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\bin\Debug\MoveZeroToLeft.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\obj\Debug\MoveZeroToLeft.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\obj\Debug\MoveZeroToLeft.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeroToLeft\MoveZeroToLeft\obj\Debug\MoveZeroToLeft.pdb

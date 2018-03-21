@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\bin\Debug\MoveZeros.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\bin\Debug\MoveZeros.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\bin\Debug\MoveZeros.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\obj\Debug\MoveZeros.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\obj\Debug\MoveZeros.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MoveZeros\MoveZeros\obj\Debug\MoveZeros.pdb

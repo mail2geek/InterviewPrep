@@ -1,0 +1,5 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\PalindromeInteger\PalindromeInteger\bin\Debug\PalindromeInteger.exe.config
+c:\Users\ramgan\Documents\Visual Studio 2015\Projects\PalindromeInteger\PalindromeInteger\bin\Debug\PalindromeInteger.exe
+c:\Users\ramgan\Documents\Visual Studio 2015\Projects\PalindromeInteger\PalindromeInteger\bin\Debug\PalindromeInteger.pdb
+c:\Users\ramgan\Documents\Visual Studio 2015\Projects\PalindromeInteger\PalindromeInteger\obj\Debug\PalindromeInteger.exe
+c:\Users\ramgan\Documents\Visual Studio 2015\Projects\PalindromeInteger\PalindromeInteger\obj\Debug\PalindromeInteger.pdb

@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\bin\Debug\LowHighIndex.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\bin\Debug\LowHighIndex.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\bin\Debug\LowHighIndex.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\obj\Debug\LowHighIndex.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\obj\Debug\LowHighIndex.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\LowHighIndex\LowHighIndex\obj\Debug\LowHighIndex.pdb

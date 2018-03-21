@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb

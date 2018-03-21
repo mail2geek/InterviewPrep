@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\bin\Debug\MaxInSlidingWindow.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\bin\Debug\MaxInSlidingWindow.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\bin\Debug\MaxInSlidingWindow.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\obj\Debug\MaxInSlidingWindow.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\obj\Debug\MaxInSlidingWindow.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\MaxInSlidingWindow\MaxInSlidingWindow\obj\Debug\MaxInSlidingWindow.pdb

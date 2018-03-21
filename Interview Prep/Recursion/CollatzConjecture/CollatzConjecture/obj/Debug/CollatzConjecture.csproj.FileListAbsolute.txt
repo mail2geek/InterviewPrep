@@ -1,0 +1,6 @@
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe.config
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\bin\Debug\CollatzConjecture.pdb
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.csprojResolveAssemblyReference.cache
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.exe
+c:\users\ramgan\documents\visual studio 2015\Projects\CollatzConjecture\CollatzConjecture\obj\Debug\CollatzConjecture.pdb
